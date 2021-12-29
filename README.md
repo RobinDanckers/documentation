@@ -1,4 +1,4 @@
-# AUDTI.one-docs
+# AUDIT.one-docs
 
 ## Install dependencies
 ```
