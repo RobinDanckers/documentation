@@ -1,4 +1,4 @@
-# pStake-docs
+# AUDTI.one-docs
 
 ## Install dependencies
 ```
