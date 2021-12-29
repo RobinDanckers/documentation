@@ -15,9 +15,9 @@ Answer
  
 Answer
 
-#### Question 5
+#### Will staking rewards be automatically re-staked?
 
-Answer
+There is no automatic re-staking of staking rewards for the guides you'll find in our docs. This means that you will have to claim your rewards and re-stake them manually if you want to do so.
  
 #### Question 6
 
