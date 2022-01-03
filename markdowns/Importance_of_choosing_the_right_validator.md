@@ -61,4 +61,4 @@ The type of validator you decide to delegate your crypto to will depend on your 
       --> **Try an individual validator.** <br>
 
 
-###  Don't forget to always do your own research before choosing a network and/or validator to delegate your assets to.
+> Don't forget to always do your own research before choosing a network and/or validator to delegate your assets to.
