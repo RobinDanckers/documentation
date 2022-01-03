@@ -51,7 +51,14 @@ A disadvantage of delegating to an individual validator is its less robust suppo
 
 The type of validator you decide to delegate your crypto to will depend on your preferences and what kind of token holder you are. You might find yourself fitting in one particular category but you might perfectly find yourself using different kinds of validators for different networks.
 
-Are you in for the short-term and prioritize convenience? **Go with an exchange.**
-Do you hold one or two Proof of Stake coins you believe in strongly? **Look for protocol developer validators.**
-Do you believe in the Proof of Stake ecosystem as a whole, and hold tokens of many different networks? **Go for pure infrastructure validators.**
-Is your absolute priority to increase decentralization? **Try an individual validator.**
+  - Are you in for the short-term and prioritize convenience? <br>
+      --> **Go with an exchange.** <br>
+  - Do you hold one or two Proof-of-Stake coins you strongly believe in? <br>
+      --> **Look for protocol developer validators.** <br>
+  - Are you a general supporter of the PoS ecosystem and hold tokens of several different networks? <br>
+      --> **Go for pure infrastructure validators.** <br>
+  - Is your absolute priority to increase decentralization? <br>
+      --> **Try an individual validator.** <br>
+
+
+###  Don't forget to always do your own research before choosing a network and/or validator to delegate your assets to.
