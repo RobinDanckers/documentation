@@ -47,6 +47,17 @@ You will recognize them when the validator fee is 100%.
 
 ## Which type of validator should you choose?
 
+When choosing the type of validator that fits your needs, you should look for: <br>
+
+<img align="right" height="180" src="https://user-images.githubusercontent.com/95366163/150796422-3505db54-46bd-4378-8637-a84cc12ba603.png">
+
+- **Reliability**: Choose a validator that knows what they’re doing. Favor providers with proven experience validating on the network you want to support.
+
+- **Communication**: Do you get enough information and support from them, on a regular basis? Be sure to pick a team that makes you comfortable and matches your availability.
+
+- **Economics**: Look for a [competitive fee](Validator_fee.md). “The lower, the better”, is not always the best strategy when choosing a validator.
+
+<br>
 The type of validator you decide to delegate your assets to will depend on your preferences and what kind of token holder you are. You might find yourself fitting in one particular category but you might perfectly find yourself using different kinds of validators for different networks.
 
   - Are you in for the short-term and prioritize convenience? <br>
@@ -58,16 +69,15 @@ The type of validator you decide to delegate your assets to will depend on your 
   - Is your absolute priority to increase decentralization? <br>
       --> **Try an individual validator.** <br>
 
-When choosing the type of validator that fits your needs, you should look for:
-
-- **Reliability**: Choose a validator that knows what they’re doing. Favor providers with proven experience validating on the network you want to support.
-
-- **Communication**: Do you get enough information and support from them, on a regular basis? Be sure to pick a team that makes you comfortable and matches your availability.
-
-- **Economics**: Look for a [competitive fee](Validator_fee.md). “The lower, the better”, is not always the best strategy when choosing a validator.
-
 
 > Always do your own research before choosing a network and/or validator to delegate your assets to.
+
+## What happens when I choose the wrong validator?
+
+When it turns out that you are not happy about your choice after a while, because you don't get the support you need or that the initial commission fee has changed over time, you can easily unstake your delegation with that validator. Do bear in mind that you will have to wait out the [unbonding period](Unbonding_period.md) before you can trade your assets or delegate them to another validator again. In that last case it might be more interesting to directly redelegate your assets to another validator. By doing so, you don't have to wait for the unbonding perdiod to end before you can continue gaining rewards on your delegation.
+
+Worst case scenario, your validator gets [slashed](Slashing.md) for its malicious behavior and you can loose a part or all of your delegated funds.
+Find out more about the risks of staking [on this page](Risks_of_staking.md).
 
 ## Why is AUDIT.one a good choice when looking for a validator?
 
