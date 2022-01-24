@@ -7,11 +7,9 @@ We will try to make that decision a little easier for you by dividing them in di
 In general, there are only a few categories to distinct the different types of validators. <br>
 Each one of them have their own advantages and disadvantages.
 
-  1. **Individual validators**
-  2. **Exchanges**
-  3. **Protocol developer validators**
-  4. **Pure infrastructure validators**
-  5. **Fund validators**
+<p align="center">
+  <img width="800" src="https://user-images.githubusercontent.com/95366163/150791482-3990bb8a-f150-4aff-996f-bc1bc9bbcf0a.png">
+</p>
 
 
 ## Individual Validators
@@ -60,9 +58,6 @@ The type of validator you decide to delegate your assets to will depend on your 
   - Is your absolute priority to increase decentralization? <br>
       --> **Try an individual validator.** <br>
 
-
-## Last but not least
-
 When choosing the type of validator that fits your needs, you should look for:
 
 - **Reliability**: Choose a validator that knows what they’re doing. Favor providers with proven experience validating on the network you want to support.
@@ -73,3 +68,10 @@ When choosing the type of validator that fits your needs, you should look for:
 
 
 > Always do your own research before choosing a network and/or validator to delegate your assets to.
+
+## Why is AUDIT.one a good choice when looking for a validator?
+
+AUDIT.one positions itself among the pure infrastructural validators. This means that we support a wide range of networks to which we have a good relationship. We do a thorough research on each projects before setting up our nodes and start validating. We stay up to date with all networks by diving deep into the community so we don't miss a thing and be able to inform our delegators about general news, upcomming events, updates, airdrops,.. etc.
+
+In general we have an [uptime](Uptime.md) of about 99.9% with commission fees between 5% and 10% depending on the network.
+We want to make sure that staking is available to everyone, which is why we created this wiki that consists of general information and tons of easy step-by-step staking guides.
